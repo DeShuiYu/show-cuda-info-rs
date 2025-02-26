@@ -19,7 +19,9 @@
 ```shell
 > ./scirs
 ```
+
 ![alt text](docs/imgs/image.png)
+
 其参数解释如下：
 <div align="center" style="margin-left:auto;margin-right: auto;width: fit-content;">
 
