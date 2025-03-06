@@ -1,5 +1,3 @@
-
-
 use std::sync::Arc;
 use tokio;
 use tokio::fs::read_to_string;
